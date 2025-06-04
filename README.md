@@ -24,7 +24,7 @@ See in requirements.txt.
 
 ### Step 4: Run!
 
-    python GTA_new/CompanyGraphDataProcess_Tianyancha/Twitter/main_multi_clf_12_19_tyc_abla.py
+    python GTA_new/CompanyGraphDataProcess_Tianyancha/Twitter/main_multi_clf_12_19_tyc_v2.py
 
 
 
