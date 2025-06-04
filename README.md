@@ -4,7 +4,7 @@ Implementation of GTA (Graph Neural Network with Topology-Aware Augmentation).
 
 GTA adopts a dual augmentation strategy based on topology information, augmenting both topology and attributes.
 
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/b6d22f2f-b3bf-49d1-9cbd-9f0982233ecb" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/b6d22f2f-b3bf-49d1-9cbd-9f0982233ecb" />
 
 
 ### Step 1: Download the Dataset
