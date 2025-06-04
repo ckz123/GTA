@@ -6,6 +6,7 @@ GTA adopts a dual augmentation strategy based on topology information, augmentin
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/b6d22f2f-b3bf-49d1-9cbd-9f0982233ecb" />
 
+## Quick Start
 
 ### Step 1: Download the Dataset
 
@@ -19,7 +20,7 @@ Move the extracted files as the picture shows.
 
 ### Step 3: Run!
 
-python main_multi_clf_12_19_tyc_abla.py
+    python main_multi_clf_12_19_tyc_abla.py
 
 
 
