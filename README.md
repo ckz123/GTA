@@ -20,7 +20,7 @@ Move the extracted files as the picture shows.
 
 ### Step 3: Run!
 
-    python main_multi_clf_12_19_tyc_abla.py
+    python GTA_new/CompanyGraphDataProcess_Tianyancha/Twitter/main_multi_clf_12_19_tyc_abla.py
 
 
 
