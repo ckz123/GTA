@@ -11,7 +11,9 @@ GTA adopts a dual augmentation strategy based on topology information, augmentin
 
 Dataset: https://github.com/ckz123/GTA_new/releases/tag/untagged-869748122d0307bccb9a
 
-### Step 2: Move the Extracted Files into tyc_data
+### Step 2: Move the Extracted Files
+
+Move the extracted files as the picture shows.
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/52edba0e-d2ff-49ab-b0c1-4f23bd53c1c8" />
 
