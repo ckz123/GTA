@@ -23,8 +23,8 @@ Move the extracted files as the picture shows.
 See in requirements.txt.
 
 ### Step 4: Run!
-
-    python GTA_new/CompanyGraphDataProcess_Tianyancha/Twitter/main_multi_clf_12_19_tyc_v2.py
+    cd GTA_new
+    python CompanyGraphDataProcess_Tianyancha/Twitter/main_multi_clf_12_19_tyc_v2.py
 
 
 
