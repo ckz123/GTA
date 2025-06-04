@@ -17,6 +17,10 @@ Move the extracted files as the picture shows.
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/52edba0e-d2ff-49ab-b0c1-4f23bd53c1c8" />
 
+### Step 3: Run!
+
+python main_multi_clf_12_19_tyc_abla.py
+
 
 
 
